@@ -1,2 +1,3 @@
-# switch-expression-sandbox
-Experiments with switch expressions in C#
+# Switch Expression Sandbox: experiments with switch expressions in C#
+
+
